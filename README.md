@@ -1,4 +1,4 @@
-# OSPriority
+# CPU Scheduling
 Simulating the task execution done by CPU (c++)
 
 Task is a process that is requesting execution. When a task is created, it's state is NEW. When it is received and acknowledged by the Executor
